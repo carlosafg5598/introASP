@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlo\\Desktop\\introASP\\introASP\\introASP\\introASP.csproj": {}
+    "C:\\Users\\Carlos\\Desktop\\introASP\\introASP\\introASP\\introASP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlo\\Desktop\\introASP\\introASP\\introASP\\introASP.csproj": {
+    "C:\\Users\\Carlos\\Desktop\\introASP\\introASP\\introASP\\introASP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlo\\Desktop\\introASP\\introASP\\introASP\\introASP.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos\\Desktop\\introASP\\introASP\\introASP\\introASP.csproj",
         "projectName": "introASP",
-        "projectPath": "C:\\Users\\carlo\\Desktop\\introASP\\introASP\\introASP\\introASP.csproj",
-        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlo\\Desktop\\introASP\\introASP\\introASP\\obj\\",
+        "projectPath": "C:\\Users\\Carlos\\Desktop\\introASP\\introASP\\introASP\\introASP.csproj",
+        "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carlos\\Desktop\\introASP\\introASP\\introASP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

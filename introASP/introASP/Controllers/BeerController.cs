@@ -17,6 +17,7 @@ namespace introASP.Controllers
 
         public async Task<IActionResult> Index()
         {
+            //TODO ARREGLAR AQUI
             var beers = _context.Cervezas.Include(b=>b.Nombre);
             return View(await beers.ToListAsync());
         }
