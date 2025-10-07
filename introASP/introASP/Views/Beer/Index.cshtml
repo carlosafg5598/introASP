@@ -1,0 +1,29 @@
+﻿@model List<Cerveza>
+<h1>Cervezas</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nombre
+            </th>
+            <th>
+                Marca
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var beer in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(mbox=>beer.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(mbox=>beer.IdBrand)
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

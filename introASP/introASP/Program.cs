@@ -1,7 +1,15 @@
+using introASP.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<PubContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("PubContext"));
+});
 
 var app = builder.Build();
 

@@ -169,3 +169,4 @@ C:\Users\carlo\Desktop\introASP\introASP\introASP\obj\Debug\net8.0\refint\introA
 C:\Users\carlo\Desktop\introASP\introASP\introASP\obj\Debug\net8.0\introASP.pdb
 C:\Users\carlo\Desktop\introASP\introASP\introASP\obj\Debug\net8.0\introASP.genruntimeconfig.cache
 C:\Users\carlo\Desktop\introASP\introASP\introASP\obj\Debug\net8.0\ref\introASP.dll
+C:\Users\carlo\Desktop\introASP\introASP\introASP\obj\Debug\net8.0\introASP.sourcelink.json
