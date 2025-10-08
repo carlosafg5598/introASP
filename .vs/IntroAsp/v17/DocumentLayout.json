@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlo\\Desktop\\IntroAsp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5AD83-646A-404F-90DA-E3BE02121541}|IntroAsp\\IntroAsp.csproj|c:\\users\\carlo\\desktop\\introasp\\introasp\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5AD83-646A-404F-90DA-E3BE02121541}|IntroAsp\\IntroAsp.csproj|solutionrelative:introasp\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5AD83-646A-404F-90DA-E3BE02121541}|IntroAsp\\IntroAsp.csproj|c:\\users\\carlo\\desktop\\introasp\\introasp\\models\\viewmodels\\beerviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5AD83-646A-404F-90DA-E3BE02121541}|IntroAsp\\IntroAsp.csproj|solutionrelative:introasp\\models\\viewmodels\\beerviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5AD83-646A-404F-90DA-E3BE02121541}|IntroAsp\\IntroAsp.csproj|c:\\users\\carlo\\desktop\\introasp\\introasp\\views\\beer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94B5AD83-646A-404F-90DA-E3BE02121541}|IntroAsp\\IntroAsp.csproj|solutionrelative:introasp\\views\\beer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5AD83-646A-404F-90DA-E3BE02121541}|IntroAsp\\IntroAsp.csproj|c:\\users\\carlo\\desktop\\introasp\\introasp\\views\\beer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94B5AD83-646A-404F-90DA-E3BE02121541}|IntroAsp\\IntroAsp.csproj|solutionrelative:introasp\\views\\beer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5AD83-646A-404F-90DA-E3BE02121541}|IntroAsp\\IntroAsp.csproj|c:\\users\\carlo\\desktop\\introasp\\introasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94B5AD83-646A-404F-90DA-E3BE02121541}|IntroAsp\\IntroAsp.csproj|solutionrelative:introasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5AD83-646A-404F-90DA-E3BE02121541}|IntroAsp\\IntroAsp.csproj|c:\\users\\carlo\\desktop\\introasp\\introasp\\models\\cerveza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5AD83-646A-404F-90DA-E3BE02121541}|IntroAsp\\IntroAsp.csproj|solutionrelative:introasp\\models\\cerveza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5AD83-646A-404F-90DA-E3BE02121541}|IntroAsp\\IntroAsp.csproj|c:\\users\\carlo\\desktop\\introasp\\introasp\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5AD83-646A-404F-90DA-E3BE02121541}|IntroAsp\\IntroAsp.csproj|solutionrelative:introasp\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5AD83-646A-404F-90DA-E3BE02121541}|IntroAsp\\IntroAsp.csproj|c:\\users\\carlo\\desktop\\introasp\\introasp\\models\\pubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5AD83-646A-404F-90DA-E3BE02121541}|IntroAsp\\IntroAsp.csproj|solutionrelative:introasp\\models\\pubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PubContext.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\IntroAsp\\IntroAsp\\Models\\PubContext.cs",
+              "RelativeDocumentMoniker": "IntroAsp\\Models\\PubContext.cs",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\IntroAsp\\IntroAsp\\Models\\PubContext.cs",
+              "RelativeToolTip": "IntroAsp\\Models\\PubContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T05:56:59.061Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cerveza.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\IntroAsp\\IntroAsp\\Models\\Cerveza.cs",
+              "RelativeDocumentMoniker": "IntroAsp\\Models\\Cerveza.cs",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\IntroAsp\\IntroAsp\\Models\\Cerveza.cs",
+              "RelativeToolTip": "IntroAsp\\Models\\Cerveza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T05:57:45.299Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\IntroAsp\\IntroAsp\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "IntroAsp\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\IntroAsp\\IntroAsp\\Models\\Brand.cs",
+              "RelativeToolTip": "IntroAsp\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T05:57:41.346Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeerController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\IntroAsp\\IntroAsp\\Controllers\\BeerController.cs",
+              "RelativeDocumentMoniker": "IntroAsp\\Controllers\\BeerController.cs",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\IntroAsp\\IntroAsp\\Controllers\\BeerController.cs",
+              "RelativeToolTip": "IntroAsp\\Controllers\\BeerController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:42:05.122Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeerViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\IntroAsp\\IntroAsp\\Models\\ViewModels\\BeerViewModels.cs",
+              "RelativeDocumentMoniker": "IntroAsp\\Models\\ViewModels\\BeerViewModels.cs",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\IntroAsp\\IntroAsp\\Models\\ViewModels\\BeerViewModels.cs",
+              "RelativeToolTip": "IntroAsp\\Models\\ViewModels\\BeerViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:23:03.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\IntroAsp\\IntroAsp\\Views\\Beer\\Create.cshtml",
+              "RelativeDocumentMoniker": "IntroAsp\\Views\\Beer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\IntroAsp\\IntroAsp\\Views\\Beer\\Create.cshtml",
+              "RelativeToolTip": "IntroAsp\\Views\\Beer\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T07:14:37.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\IntroAsp\\IntroAsp\\Views\\Beer\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntroAsp\\Views\\Beer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\IntroAsp\\IntroAsp\\Views\\Beer\\Index.cshtml",
+              "RelativeToolTip": "IntroAsp\\Views\\Beer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T06:42:17.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\IntroAsp\\IntroAsp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IntroAsp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\IntroAsp\\IntroAsp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IntroAsp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T06:20:51.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
